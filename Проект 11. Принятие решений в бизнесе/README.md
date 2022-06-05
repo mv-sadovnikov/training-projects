@@ -6,6 +6,7 @@
 ## Навыки и инструменты
 - Python;
 - Pandas;
+- NymPy;
 - Matplotlib;
 - SciPy;
 - A/B-тестирование;

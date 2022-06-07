@@ -11,7 +11,7 @@
 ## Навыки и инструменты
 - Python;
 - Pandas;
-- Scikit-learn
+- Scikit-learn;
 - NymPy;
 - Matplotlib;
 - Seaborn;
